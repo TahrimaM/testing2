@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "changes in newerbranch"
+=======
+"changes in master"
+>>>>>>> master
